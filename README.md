@@ -8,7 +8,7 @@ RGB LED Strip
 Potentiometers (x4 used total)
 Button (only 1 used)
 
-##Assembly
-The middle, largest piece of the case is the main part. The knobs come out of the circular holes in the back, and the button goes in the very last circular hole. The partially circular hole in the middle bottom of the main peiece is where the power cord for the Ardiuno comes out. 
-The peiece to the left (when looking top down) is an insert that lies inside of the main peice on top of the inner edges. The hole is for the wires of the LED strip to be connected to the Arduino. The LED strip lies on top of this peice.
-The last, rightmost pieces are to restrict the light from the LEDs and hold the glass pane in place. The pegs holes fit onto the pegs from the main peice. The glass pane going through it will be resting on the LED strip itself.
+## Assembly
+The middle, largest piece of the case is the main part. The knobs come out of the circular holes in the back, and the button goes in the very last circular hole. The partially circular hole in the middle bottom of the main piece is where the power cord for the Ardiuno comes out. 
+The piece to the left (when looking top down) is an insert that lies inside of the main peice on top of the inner edges. The hole is for the wires of the LED strip to be connected to the Arduino. The LED strip lies on top of this piece.
+The last, rightmost pieces are to restrict the light from the LEDs and hold the glass pane in place. The pegs holes fit onto the pegs from the main piece. The glass pane going through it will be resting on the LED strip itself.
